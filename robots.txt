@@ -2,21 +2,6 @@ User-agent: *
 Allow: /
 
 User-agent: GPTBot
-Disallow: /
-
-User-agent: OAI-SearchBot
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: GPTBot
 Allow: /
 
 User-agent: OAI-SearchBot
